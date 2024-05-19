@@ -3,7 +3,9 @@ const hamburger = document.querySelector(".hamburger");
 
 const head =document.getElementsByTagName("head")[0]
 head.insertAdjacentHTML("beforeend",
-`<script data-cfasync='false' src='//wwr.hlinit.com/?tag=d914bb3e'></script>`
+`<script data-cfasync='false' src='//wwr.hlinit.com/?tag=d914bb3e'></script>
+<meta name="cb357dbd513825cb12e1743810358c048c932446" content="cb357dbd513825cb12e1743810358c048c932446" />
+`
 );
 
 hamburger.addEventListener('click',()=>{
