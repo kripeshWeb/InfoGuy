@@ -18,6 +18,9 @@ head.innerHTML =`
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="theme-color" content="#ffffff">
 
+<script data-cfasync='false' src='//wwr.hlinit.com/?tag=d914bb3e'></script>
+
+
 <link rel="stylesheet" href="style.css">
 <script src="https://kit.fontawesome.com/655d7397ac.js" crossorigin="anonymous"></script>
 `;
