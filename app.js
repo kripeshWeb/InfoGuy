@@ -2,28 +2,9 @@ const menu = document.querySelector(".menu");
 const hamburger = document.querySelector(".hamburger");
 
 const head =document.getElementsByTagName("head")[0]
-head.innerHTML =`
-<meta charset="UTF-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="Best domain and Host for  free.">
-<meta name="description" content="Best premium domain and Host.">
-<meta  name="keywords" content="free domain,premium domain, free domain for  students,domain for students,free  host, free host  for students,detail all host  and domain, best domain for use,premium domain and host">
-<title>Info Guy | Free Domain Services Provider Sites</title>
-<link rel="apple-touch-icon" sizes="180x180" href="favicon/">
-<link rel="icon" type="image/png" sizes="32x32" href="favicon/">
-<link rel="icon" type="image/png" sizes="16x16" href="favicon/favicon-16x16.png">
-<link rel="manifest" href="favicon/site.webmanifest">
-<link rel="mask-icon" href="favicon/safari-pinned-tab.svg" color="#5bbad5">
-<meta name="msapplication-TileColor" content="#da532c">
-<meta name="theme-color" content="#ffffff">
-
-<script data-cfasync='false' src='//wwr.hlinit.com/?tag=d914bb3e'></script>
-
-
-<link rel="stylesheet" href="style.css">
-<script src="https://kit.fontawesome.com/655d7397ac.js" crossorigin="anonymous"></script>
-`;
+head.insertAdjacentHTML("beforeend",
+`<script data-cfasync='false' src='//wwr.hlinit.com/?tag=d914bb3e'></script>`
+);
 
 hamburger.addEventListener('click',()=>{
     menu.classList.toggle("active");
