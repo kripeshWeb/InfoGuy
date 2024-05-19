@@ -7,7 +7,7 @@ hamburger.addEventListener('click',()=>{
 })
 
 const lads = document.querySelector(".ads-970x90");
-lads.innerHTML=`<iframe data-aa='2295232' src='//ad.a-ads.com/2295232?size=970x90' style='width:970px; height:90px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>`
+lads.innerHTML=`<script data-cfasync='false' src='//wwr.hlinit.com/?tag=d914bb3e'></script>`
 
 const ads = document.querySelector(".ads-728x90");
 
