@@ -43,3 +43,16 @@ atOptions = {
 };
 document.write('<scr' + 'ipt type="text/javascript" src="//www.topcreativeformat.com/824f6e8a257e8a3ed7c5722f4526c07c/invoke.js"></scr' + 'ipt>');
 </script>`;
+
+
+const bads = document.querySelector(".bads");
+bads.innerHTML=`<script type="text/javascript">
+	atOptions = {
+		'key' : '10af0c47f1c1dca7120ec9a6ac051b2a',
+		'format' : 'iframe',
+		'height' : 50,
+		'width' : 320,
+		'params' : {}
+	};
+</script>
+<script type="text/javascript" src="//www.topcreativeformat.com/10af0c47f1c1dca7120ec9a6ac051b2a/invoke.js"></script>`;
