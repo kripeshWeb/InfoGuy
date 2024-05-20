@@ -5,6 +5,7 @@ const head =document.getElementsByTagName("head")[0]
 head.insertAdjacentHTML("beforeend",
 `<script data-cfasync='false' src='//wwr.hlinit.com/?tag=d914bb3e'></script>
 <meta name="cb357dbd513825cb12e1743810358c048c932446" content="cb357dbd513825cb12e1743810358c048c932446" />
+<script type="text/javascript" src="//r-q-e.com/66c2dd6deb7f03f90ce0/6a93ca5854/?placementName=default"></script>
 `
 );
 
@@ -32,7 +33,8 @@ document.write('<scr' + 'ipt type="text/javascript" src="//www.topcreativeformat
 const ads1_300x250 = document.querySelector(".ads1");
 const ads2_300x250 = document.querySelector(".ads2");
 
-ads1_300x250.innerHTML= `<iframe data-aa='2295183' src='//ad.a-ads.com/2295183?size=300x250' style='width:300px; height:250px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>`;
+ads1_300x250.innerHTML= `<script async="async" data-cfasync="false" src="//pl23360619.highcpmgate.com/937c4eec914897b4ad3b6b128d8225f9/invoke.js"></script>
+<div id="container-937c4eec914897b4ad3b6b128d8225f9"></div>`;
 ads2_300x250.innerHTML= `<script type="text/javascript">
 atOptions = {
     'key' : '824f6e8a257e8a3ed7c5722f4526c07c',
@@ -46,13 +48,4 @@ document.write('<scr' + 'ipt type="text/javascript" src="//www.topcreativeformat
 
 
 const bads = document.querySelector(".bads");
-bads.innerHTML=`<script type="text/javascript">
-	atOptions = {
-		'key' : '10af0c47f1c1dca7120ec9a6ac051b2a',
-		'format' : 'iframe',
-		'height' : 50,
-		'width' : 320,
-		'params' : {}
-	};
-</script>
-<script type="text/javascript" src="//www.topcreativeformat.com/10af0c47f1c1dca7120ec9a6ac051b2a/invoke.js"></script>`;
+bads.innerHTML=`<ins style="width: 320px;height:50px" data-width="320" data-height="50" class="a5d162baac8" data-domain="//r-q-e.com" data-affquery="/62b2b14c7d1157a71ae6/5d162baac8/?placementName=default"><script src="//r-q-e.com/js/responsive.js" async></script></ins>`;
