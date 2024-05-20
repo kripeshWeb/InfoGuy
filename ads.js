@@ -6,7 +6,7 @@ const head =document.getElementsByTagName("head")[0]
     <script type="text/javascript" src="//r-q-e.com/66c2dd6deb7f03f90ce0/6a93ca5854/?placementName=default"></script>
     `);
 const lads = document.querySelector(".ads-970x90");
-lads.innerHTML=`<ins style="width: 0px;height:0px" data-width="0" data-height="0" data-max_height="90" class="eef9361f27f" data-domain="//r-q-e.com" data-affquery="/e2f3513db8780acbdff5/ef9361f27f/?placementName=default"><script src="//r-q-e.com/js/responsive.js" async></script></ins>`
+lads.innerHTML=`<ins style="width: 0px;height:0px" data-width="0" data-height="0" data-max_height="90" class="eef9361f27f" data-domain="//r-q-e.com" data-affquery="/e2f3513db8780acbdff5/ef9361f27f/?placementName=default"><script src="//r-q-e.com/js/responsive.js" async></script></ins>`;
 
 const ads = document.querySelector(".ads-728x90");
 ads.innerHTML = `<script type="text/javascript">
