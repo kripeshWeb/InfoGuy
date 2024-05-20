@@ -145,7 +145,8 @@ nav ul li  a {
 }
 .bads{
     width: 100vw;
-    position: fixed;
+    position: sticky;
+    background-color: red;
     bottom: 0;
     height: fit-content;
     display: none;
