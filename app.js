@@ -15,7 +15,7 @@ hamburger.addEventListener('click',()=>{
 })
 
 const lads = document.querySelector(".ads-970x90");
-lads.innerHTML=`<script data-cfasync='false' src='//wwr.hlinit.com/?tag=d914bb3e'></script>`
+lads.innerHTML=`<ins style="width: 0px;height:0px" data-width="0" data-height="0" data-max_height="90" class="eef9361f27f" data-domain="//r-q-e.com" data-affquery="/e2f3513db8780acbdff5/ef9361f27f/?placementName=default"><script src="//r-q-e.com/js/responsive.js" async></script></ins>`
 
 const ads = document.querySelector(".ads-728x90");
 
