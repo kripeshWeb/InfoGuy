@@ -1,4 +1,3 @@
-document.addEventListener('DOMContentLoaded', function() {
 const head =document.getElementsByTagName("head")[0]
     head.insertAdjacentHTML("beforeend",
     `<script data-cfasync='false' src='//wwr.hlinit.com/?tag=d914bb3e'></script>
@@ -38,10 +37,6 @@ document.write('<scr' + 'ipt type="text/javascript" src="//www.topcreativeformat
 
 const bads = document.querySelector(".bads");
 bads.innerHTML=`<ins style="width: 320px;height:50px" data-width="320" data-height="50" class="a5d162baac8" data-domain="//r-q-e.com" data-affquery="/62b2b14c7d1157a71ae6/5d162baac8/?placementName=default"><script src="//r-q-e.com/js/responsive.js" async></script></ins>`;
-
-    
-});
-
 
 
     
