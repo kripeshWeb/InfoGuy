@@ -149,7 +149,7 @@ nav ul li  a {
     position: sticky;
     /* background-color: red; */
     bottom: 0;
-    height: inherit;
+    height: 50px;
     display: none;
 }
 
